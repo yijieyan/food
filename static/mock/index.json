@@ -1,0 +1,159 @@
+{
+  "code": 0,
+  "data": {
+    "subTitle": [{
+        "text": "全部"
+      },
+      {
+        "text": "简餐便当"
+      },
+      {
+        "text": "小吃炸串"
+      },
+      {
+        "text": "面食粥点"
+      },
+      {
+        "text": "地方菜系"
+      },
+      {
+        "text": "香锅冒菜"
+      },
+      {
+        "text": "日韩料理"
+      },
+      {
+        "text": "汉堡披萨"
+      },
+      {
+        "text": "轻食西餐"
+      }
+    ],
+    "lists": [{
+        "img": "//fuss10.elemecdn.com/9/8e/746dff1bcbb89db79cd3adcb3fdc8jpeg.jpeg?imageMogr/format/webp/thumbnail/!220x220r/gravity/Center/crop/220x220/",
+        "title": "鸡蛋+火腿+培根烤冷面",
+        "text": "16人好评",
+        "price": "¥20.8",
+        "num": "",
+        "desc": "满24减22"
+      },
+      {
+        "img": "//fuss10.elemecdn.com/4/58/144cc7af429d071874ab302303f22jpeg.jpeg?imageMogr/format/webp/thumbnail/!220x220r/gravity/Center/crop/220x220/",
+        "title": "秘卤沙套餐",
+        "text": "42人好评",
+        "price": "¥21.9",
+        "num": "¥87.8",
+        "desc": ""
+      },
+      {
+        "img": "//fuss10.elemecdn.com/6/e3/c0e4c0063315cf7b725f2809a7e45jpeg.jpeg?imageMogr/format/webp/thumbnail/!220x220r/gravity/Center/crop/220x220/",
+        "title": "牛油果+草莓",
+        "text": "20人好评",
+        "price": "¥28",
+        "num": "",
+        "desc": "满28减10"
+      }
+    ],
+    "foods": [{
+      "img": "//fuss10.elemecdn.com/7/ac/998dfc8b28720af3ced2ddec827cbpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+      "title": "网红蛋包饭",
+      "starCount": 3.9,
+      "desc": "月售14703单",
+      "startSend": "¥20起送",
+      "discount": "优惠配送费¥5.5",
+      "distance": "5.04km",
+      "time": "58分钟",
+      "keyWords": ["保", "票"],
+      "isTop": false,
+      "list": [{
+          "title": "首",
+          "desc": "新用户下单立减17元"
+        },
+        {
+          "title": "减",
+          "desc": "满23减22，满70减39，满100减59，满140减79，满170减99"
+        },
+        {
+          "title": "秒",
+          "desc": "【秒杀】全天超值15.9元 套餐"
+        },
+        {
+          "title": "超",
+          "desc": "【疯狂】全天超值19.9元奶茶套餐。"
+        },
+        {
+          "title": "精",
+          "desc": "【18.9元精品餐】超值抢购"
+        },
+        {
+          "title": "贡",
+          "desc": "【1.98元奶茶，为您特贡】"
+        }
+      ]
+    },{
+      "img": "//fuss10.elemecdn.com/d/da/da5c5f243f1f771045d3b52dfb5edpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+      "title": "小米姑娘(科兴店)",
+      "starCount": 4.6,
+      "desc": "月售368单",
+      "startSend": "¥20起送",
+      "discount": "配送费¥5",
+      "distance": "215m",
+      "time": "20分钟",
+      "keyWords": ["票"],
+      "isTop": false,
+      "list": [{
+          "title": "首",
+          "desc": "新用户下单立减17元"
+        },
+        {
+          "title": "减",
+          "desc": "满20减13，满35减16，满50减25，满70减35，满90减45"
+        },
+        {
+          "title": "新",
+          "desc": "本店新用户立减1元"
+        }
+      ]
+    },{
+      "img": "//fuss10.elemecdn.com/c/fd/3f2c2059d67088fc884c9b5083d8dpng.png?imageMogr/format/webp/thumbnail/!130x130r/gravity/Center/crop/130x130/",
+      "title": "三米粥铺(粤海店)",
+      "starCount": 4.7,
+      "desc": "月售4520单",
+      "startSend": "¥20起送",
+      "discount": "优惠配送费¥2",
+      "distance": "1.30km",
+      "time": "33分钟",
+      "keyWords": ["保", "票"],
+      "isTop": false,
+      "list": [{
+          "title": "首",
+          "desc": "新用户下单立减17元"
+        },
+        {
+          "title": "减",
+          "desc": "满25减17，满50减25，满75减28"
+        },
+        {
+          "title": "特",
+          "desc": "单品定价"
+        },
+        {
+          "title": "新",
+          "desc": "本店新用户立减1元"
+        },
+        {
+          "title": "折",
+          "desc": "春季外卖节5折来袭"
+        },
+        {
+          "title": "特",
+          "desc": "sanmi套餐，5折啦～"
+        },
+        {
+          "title": "特",
+          "desc": "女神最爱南瓜饼，2折啦～"
+        }
+      ]
+    }]
+  }
+}
